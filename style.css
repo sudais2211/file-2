@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(223, 14, 14, 0.205);
+    color: rgb(20, 1, 1);
+}
+
+ul {
+    color: rgb(42, 165, 48);
+
+}
+
+td {
+    border: 2px solid black;
+}
+
+caption {
+    color: black;
+}
+
+video {
+    border: 23px;
+    margin: 23px;
+    padding: 23px;
+}
+
+a {
+    background-color: rgba(255, 230, 4, 0.377);
+    color: rgb(12, 8, 235);
+}
